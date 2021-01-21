@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Twitter Unfollow App</string>
     <string name="twunfollow">Twunfollow</string>
+    <string name="app_logo">App Logo</string>
 </resources>
