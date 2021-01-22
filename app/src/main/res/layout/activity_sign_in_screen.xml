@@ -19,6 +19,8 @@
     android:text="@string/sign_in"
     android:elevation="15dp"
     android:textAllCaps="false"
-    android:textStyle="bold"/>
+    android:textStyle="bold"
+    android:textSize="20sp"
+    android:padding="20dp"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
