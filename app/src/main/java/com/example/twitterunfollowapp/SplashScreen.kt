@@ -15,7 +15,7 @@ class SplashScreen : AppCompatActivity() {
         app_name_splash_screen.animate().translationY(-100F).setDuration(5000)
 
         Handler().postDelayed({
-            startActivity(Intent(applicationContext, MainActivity::class.java))
+            startActivity(Intent(applicationContext, SignInScreen::class.java))
             finish()
         }, 6000)
 

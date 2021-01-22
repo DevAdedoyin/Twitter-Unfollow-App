@@ -2,4 +2,5 @@
     <string name="app_name">Twitter Unfollow App</string>
     <string name="twunfollow">Twunfollow</string>
     <string name="app_logo">App Logo</string>
+    <string name="sign_in">Sign in</string>
 </resources>
